@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Ullash  
+# 👋 Hi, I'm Zim Khan
 
 💻 Full-Stack Developer | Open Source Enthusiast | Problem Solver  
 
 🌱 Currently learning React, Node.js, and Cloud Deployment  
 👨‍💻 I love working on web apps, APIs, and automation projects  
-📫 Reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourwebsite.com)  
+📫 Reach me: [LinkedIn](https://linkedin.com/in/mhzimkhan) | [Portfolio](https://zimkhan.me)  
 
 ---
 
@@ -24,7 +24,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Ullash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Zim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
