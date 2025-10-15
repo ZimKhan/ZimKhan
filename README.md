@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Ullash  
 
-<!--
-**ZimKhan/ZimKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer | Open Source Enthusiast | Problem Solver  
 
-Here are some ideas to get you started:
+🌱 Currently learning React, Node.js, and Cloud Deployment  
+👨‍💻 I love working on web apps, APIs, and automation projects  
+📫 Reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourwebsite.com)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+- Languages: JavaScript, Python, C++  
+- Frontend: React, Next.js, Tailwind CSS  
+- Backend: Node.js, Express, Django  
+- Database: MongoDB, PostgreSQL  
+- Tools: Git, Docker, VS Code  
+
+---
+
+## 🚀 Featured Projects
+- 🔗 [Awesome Project 1](https://github.com/username/project1) – Short description (e.g., "AI-powered chatbot using Node.js")  
+- 🔗 [Awesome Project 2](https://github.com/username/project2) – Short description  
+
+---
+
+## 📊 GitHub Stats
+![Ullash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## ✨ Fun Fact
+⚡️ *"I believe clean code is as beautiful as good design."*
+
+![github-contribution-grid-snake](https://github.com/BuseBeker/BuseBeker/blob/output/github-contribution-grid-snake-dark.svg)
